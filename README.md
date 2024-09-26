@@ -1,6 +1,6 @@
 #### English Version:
 
-# TodoList Project
+# todo_list Project
 
 **Author:** Matin Talkhbi
 
@@ -27,7 +27,7 @@ This project is a simple **Todo List** web application where users can manage th
 ## Installation:
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/todolist.git
+    git clone https://github.com/yourusername/todo_list.git
     ```
 2. Navigate to the project folder and open `index.html` in your browser.
 
@@ -40,7 +40,7 @@ This project is a simple **Todo List** web application where users can manage th
 
 #### نسخه فارسی:
 
-# پروژه لیست وظایف (TodoList)
+# پروژه لیست وظایف (todo_list)
 
 **نویسنده:** متین تلخ‌بی
 
@@ -67,7 +67,7 @@ This project is a simple **Todo List** web application where users can manage th
 ## نصب پروژه:
 1. ابتدا این ریپازیتوری را کلون کنید:
     ```bash
-    git clone https://github.com/yourusername/todolist.git
+    git clone https://github.com/yourusername/todo_list.git
     ```
 2. به پوشه پروژه رفته و فایل `index.html` را در مرورگر خود باز کنید.
 
